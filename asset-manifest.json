@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vybe-ex2/static/css/main.7efe0d38.chunk.css",
-    "main.js": "/vybe-ex2/static/js/main.57e18114.chunk.js",
-    "main.js.map": "/vybe-ex2/static/js/main.57e18114.chunk.js.map",
+    "main.js": "/vybe-ex2/static/js/main.0ddd3338.chunk.js",
+    "main.js.map": "/vybe-ex2/static/js/main.0ddd3338.chunk.js.map",
     "runtime-main.js": "/vybe-ex2/static/js/runtime-main.8b916a2d.js",
     "runtime-main.js.map": "/vybe-ex2/static/js/runtime-main.8b916a2d.js.map",
     "static/css/2.53f53a9f.chunk.css": "/vybe-ex2/static/css/2.53f53a9f.chunk.css",
     "static/js/2.8d1425f2.chunk.js": "/vybe-ex2/static/js/2.8d1425f2.chunk.js",
     "static/js/2.8d1425f2.chunk.js.map": "/vybe-ex2/static/js/2.8d1425f2.chunk.js.map",
     "index.html": "/vybe-ex2/index.html",
-    "precache-manifest.811dead28cc0101f1cd2c477a782b263.js": "/vybe-ex2/precache-manifest.811dead28cc0101f1cd2c477a782b263.js",
+    "precache-manifest.905c470b2009cef177a966e341b49596.js": "/vybe-ex2/precache-manifest.905c470b2009cef177a966e341b49596.js",
     "service-worker.js": "/vybe-ex2/service-worker.js",
     "static/css/2.53f53a9f.chunk.css.map": "/vybe-ex2/static/css/2.53f53a9f.chunk.css.map",
     "static/css/main.7efe0d38.chunk.css.map": "/vybe-ex2/static/css/main.7efe0d38.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.53f53a9f.chunk.css",
     "static/js/2.8d1425f2.chunk.js",
     "static/css/main.7efe0d38.chunk.css",
-    "static/js/main.57e18114.chunk.js"
+    "static/js/main.0ddd3338.chunk.js"
   ]
 }
