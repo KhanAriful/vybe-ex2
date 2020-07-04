@@ -1,0 +1,2 @@
+main{min-height:100vh}.boxContainer{display:flex;justify-content:space-between}.boxLeft{width:55%;height:100%}.boxRight{width:42%;height:100%}@media only screen and (max-width:992px){.boxContainer{display:flex;flex-direction:column}.boxLeft{margin-bottom:2rem}.boxLeft,.boxRight{width:100%;height:100%}.displayNone{display:none}.textCenter{text-align:center}}
+/*# sourceMappingURL=main.7efe0d38.chunk.css.map */
