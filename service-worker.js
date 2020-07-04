@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vybe-ex2/precache-manifest.e8dc235b54acdbc64fc5143e03abf7fb.js"
+  "/vybe-ex2/precache-manifest.811dead28cc0101f1cd2c477a782b263.js"
 );
 
 self.addEventListener('message', (event) => {
